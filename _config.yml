@@ -11,7 +11,7 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   Blog posts for the class on open science at the University of Geneva
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://wazaahhh.github.io/openscience2019" # the base hostname & protocol for your site
+url: "https://wazaahhh.github.io/openscience2019/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
