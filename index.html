@@ -15,7 +15,7 @@ layout: default
     {% if category == "Opinions" %}
     <li>
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> | <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="https://github.com/{{ post.author }}">{{ post.author }}</a></span></span>
-{{ post.url}}
+
       <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
     </li>
     {% endif %}
