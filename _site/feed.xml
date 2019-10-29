@@ -6,24 +6,33 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Oct 2019 23:53:42 +0100</pubDate>
-    <lastBuildDate>Tue, 29 Oct 2019 23:53:42 +0100</lastBuildDate>
+    <pubDate>Tue, 29 Oct 2019 23:57:10 +0100</pubDate>
+    <lastBuildDate>Tue, 29 Oct 2019 23:57:10 +0100</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
-        <title>Opinion Open Science</title>
-        <description>&lt;p&gt;L’open science est une pratique intéressante à utiliser. L’idée de partager des données, afin de permettre à d’autres intéressés de s’investir dans un projet, alors qu’il n’aurait pas pu, sans le partage, de s’y investir, ou encore, le partage de projet permet de tenir au courant les personnes voulant avoir un aperçu des projets en cours.
-De plus, les personnes indépendantes, se lançant dans un grand projet, auront éventuellement besoin d’aide et transmette leurs idées, afin d’attirer les plus intéressés et permettant de sans lancer dans « une dynamique de groupe ».
-Le blog « Democratic databases : science on GitHub » illustre bien avec l’exemple de projet sur l’Ebola de Caitlin Rivers.
-Elle a décidé de collecter des informations sur les gens affectés par l’Ebola à l’ouest de l’Afrique. Elle stocke les données dans un PDF et fini par publier sur GitHub. Les gens les plus intéressés ont suivi et contribué au projet et aidaient à maintenir les données à jour.
-Nous pouvons donc voir, que grâce à GitHub ce n’était plus des données stocker sur un pdf mais une base de données mise à jour constamment.
-Cet exemple nous permet aussi de voir, que l’open science peut aider également à l’organisation du projet et le rendre plus accessible, comme le passage d’un PDF difficile à modifier ou mettre à jour à une grande base de données. Le projet a évolué sur une base de volontariat.
-L’Open Science est donc une sorte d’évolution de la science où une adaptation de la science pour les gens intéressés et possédant des savoirs exploitables pour certains projets mais qui ne pourraient pas participer si une association ou entreprise privée s’occupait de ces projets sans les partager.
-GitHub est un des plus grands sites permettant l’Open Science, aujourd’hui le site compte plus de 15 million d’utilisateurs et le site a commencé en 2008.&lt;/p&gt;
+        <title>Générosité et Science</title>
+        <description>&lt;p&gt;Quand la générosité rencontre la science.&lt;/p&gt;
+
+&lt;p&gt;C’est ce qu’on est amené à penser quand on lit le premier paragraphe du blog post de Jeffrey Perkel,
+sur les bases de données démocratiques :
+‘‘Rather than keeping these files to herself, she posted them to GitHub.com,
+a hugely popular website for collaborative work on software code.
+Rivers thought the postings might attract those interested in up-to-date information from the Ebola outbreak’’.&lt;/p&gt;
+
+&lt;p&gt;Ce projet fait référence à celui de Caitlin Rivers, qui consistait à collecter des informations sur
+les personnes affectées par le virus Ebola,
+et de répertorier les régions sinistrées.
+Le fait qu’un partage de données ait engendré une contribution à ce projet de la part d’autres scientifiques
+est un élément essentiel au progrès scientifique ainsi qu’à l’avancée de la science ouverte.
+Et je trouve cela très positif.&lt;/p&gt;
+
+&lt;p&gt;Le fait de partager ce genre de projet avec des gens intéressés par celui-ci ne peut que le rendre meilleur,
+et permet, à partir d’un effort collectif, une meilleure qualité d’information et de progrès.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 02 Nov 2016 11:00:00 +0100</pubDate>
-        <link>http://localhost:4000/opinions/2016/11/02/Opinion.html</link>
-        <guid isPermaLink="true">http://localhost:4000/opinions/2016/11/02/Opinion.html</guid>
+        <pubDate>Wed, 26 Oct 2016 11:20:00 +0200</pubDate>
+        <link>http://localhost:4000/opinions/2016/10/26/Generosit%C3%A9-et-Science.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/Generosit%C3%A9-et-Science.html</guid>
         
         
         <category>Opinions</category>
@@ -31,185 +40,411 @@ GitHub est un des plus grands sites permettant l’Open Science, aujourd’hui l
       </item>
     
       <item>
-        <title>Homework Next Week</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Make a contribution on Open Street Map.
-    &lt;ul&gt;
-      &lt;li&gt;http://learnosm.org&lt;/li&gt;
-      &lt;li&gt;https://www.openstreetmap.org&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Read about WAZE app.
-    &lt;ul&gt;
-      &lt;li&gt;https://en.wikipedia.org/wiki/Waze&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Read the Terms of Use, including Privacy Policy and Copyright Policy
-    &lt;ul&gt;
-      &lt;li&gt;https://www.waze.com/fr/legal/tos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Optional: Install and have a look at WAZE app.&lt;/li&gt;
+        <title>Reflexive Datascience</title>
+        <description>&lt;hr /&gt;
+
+&lt;h4 id=&quot;can-we-do-data-science-out-of-data-science-&quot;&gt;&lt;strong&gt;Can we do Data Science out of Data Science ?&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dlab.berkeley.edu/blog/reflexive-data-science-overview&quot;&gt;Sebastian Benthall, Reflexive Data Science: An Overview, 2013&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;studying-a-summer-school-hacking-week&quot;&gt;&lt;strong&gt;Studying a Summer School Hacking Week&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;(a) HackDay 2013, (b) HackDay 2014, (c) Astro Hack Week 2014, (d) HackDay 2015, and (e) Astro Hack Week
+2015&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;HackDay 2013 : January 2013&lt;/li&gt;
+  &lt;li&gt;HackDay 2014 : January 2014&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://astrohackweek.org/2016/&quot;&gt;Astro Hack Week 2014&lt;/a&gt; : September 15-19, 2014&lt;/li&gt;
+  &lt;li&gt;HackDay 2015 : January 2015&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://astrohackweek.org/2015/&quot;&gt;Astro Hack Week 2015&lt;/a&gt; : September 28 - October 2, 2015&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://astrohackweek.org/2014/&quot;&gt;Astro Hack Week 2016&lt;/a&gt; : August 29 – September 2, 2016&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;progression-of-individual-vs-collective-contribution-cascade-initializations&quot;&gt;&lt;strong&gt;Progression of individual vs. collective contribution cascade initializations&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/wazaahhh/AstroWeekStudy/master/manuscript/ci_abstract/individual_vs_interactive_cascades.png&quot; alt=&quot;timeline&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;contribution-cascades&quot;&gt;&lt;strong&gt;Contribution Cascades&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;green&lt;/strong&gt; : collective cascades&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;red&lt;/strong&gt; : individual cascades&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/wazaahhh/AstroWeekStudy/blob/master/manuscript/ci_abstract/ccdf_individual_vs_interactive_cascades.png?raw=true&quot; alt=&quot;ccdf&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;sources-astro-hack-study&quot;&gt;&lt;strong&gt;Sources Astro Hack Study&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wazaahhh/AstroWeekStudy&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wazaahhh/AstroWeekStudy/blob/master/manuscript/ci_abstract/ci2016-sample.pdf&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wazaahhh/AstroWeekStudy/blob/master/manuscript/ci_abstract/poster_CI2016_sized.pdf&quot;&gt;poster&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;do-your-own-simple-reflexive-data-science&quot;&gt;&lt;strong&gt;Do Your Own Simple Reflexive Data Science&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wazaahhh/openscience/graphs/contributors&quot;&gt;GitHub Graphs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wazaahhh/openscience/pulse&quot;&gt;GitHub Pulse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;This is also helpful to assess the health of a open source project (resp. community):&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://oss-watch.ac.uk/resources/evaluatingsustainability&quot;&gt;OSS Watch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.seemantk.com/viz/gentoo/galaxy/&quot;&gt;Gentoo Linux Galaxy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sun, 30 Oct 2016 14:35:27 +0100</pubDate>
-        <link>http://localhost:4000/assignments/2016/10/30/homework.html</link>
-        <guid isPermaLink="true">http://localhost:4000/assignments/2016/10/30/homework.html</guid>
+        <pubDate>Wed, 26 Oct 2016 08:30:00 +0200</pubDate>
+        <link>http://localhost:4000/slides/2016/10/26/reflexive-datascience.html</link>
+        <guid isPermaLink="true">http://localhost:4000/slides/2016/10/26/reflexive-datascience.html</guid>
         
         
-        <category>Assignments</category>
-        
-      </item>
-    
-      <item>
-        <title>Une pensée</title>
-        <description>&lt;p&gt;Je pense que GitHub est un grand progrès dans tous les domaines, bien que certain domaines restent encore hermétiques au site comme GitHub,
-au site open access.
-C’est grâce à des sites comme GitHub ou Zooniverse que certaines avancées scientifiques ont été faites, par exemple certains projets
-comme celui de des galaxies sur Zooniverse a permis de classifier leur données beaucoup plus rapidement qui si cela avait été fait tous seul.
-Je pense que dans un futur proche toutes les sciences devraient être en open access.
-L’interface de GitHub n’est pas très optimisé. Je pense qu’ils pourraient optimiser la barre de navigaton.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 26 Oct 2016 15:35:27 +0200</pubDate>
-        <link>http://localhost:4000/opinions/2016/10/26/Une-pens%C3%A9e.html</link>
-        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/Une-pens%C3%A9e.html</guid>
-        
-        
-        <category>Opinions</category>
+        <category>Slides</category>
         
       </item>
     
       <item>
-        <title>Homework à faire</title>
-        <description>&lt;p&gt;Democratic databases: science on GitHub - Review&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://blogs.nature.com/naturejobs/files/2016/10/To_deposit_or_not_to_deposit_that_is_the_question_-_journal.pbio_.1001779.g001.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;L’article en question parle de « data-sharing » et en quoi cela est bénéfique non seulement pour les chercheurs, mais aussi pour l’humanité. En partageant ses données sur le virus Ebola sur Github, Rivers n’a pas seulement mis ses données en ligne, à disposition de quiconque, mais s’est aussi faite aider par d’autres chercheurs ayant aussi partagé leurs données sur Ebola.&lt;/p&gt;
-
-&lt;p&gt;L’expérience vécue sur Github ressemble à celle que l’on peut vivre avec Zooniverse mais avec un taux de participation plus élevée où on peut faire avancer le projet visé avec nos propres données, apprendre des avancements faits par d’autres membres du site, ou encore communiquer avec d’autres personnes passionnées par le même projet que nous.
-De plus, avec Github on peut voir exactement les contributions faites et où elles sont faites avec une sorte d’historique des interventions faite par les utilisateurs du site.&lt;/p&gt;
+        <title>Markdown Basics</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;markdown tutorial&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 Oct 2016 12:02:00 +0200</pubDate>
-        <link>http://localhost:4000/opinions/2016/10/26/Science-on-GitHub-Review.html</link>
-        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/Science-on-GitHub-Review.html</guid>
+        <pubDate>Wed, 26 Oct 2016 01:20:00 +0200</pubDate>
+        <link>http://localhost:4000/slides/2016/10/26/markdown-basics.html</link>
+        <guid isPermaLink="true">http://localhost:4000/slides/2016/10/26/markdown-basics.html</guid>
         
         
-        <category>Opinions</category>
+        <category>Slides</category>
         
       </item>
     
       <item>
-        <title>L'open science pour l'information</title>
-        <description>&lt;p&gt;Le titre de cet article relève pour moi ce qui m’a le plus surpris dans le texte. Il y a encore une quinzaine d’années, savoir créer, utiliser, optimiser et diffuser une base de données informatique était quelque chose de peu courant. La démocratisation que met en avant l’article montre que, bien utilisées, les bases de données open-source, mises à disposition de chacun de manière simple, peuvent considérablement amener un renouveau dans la recherche mais également dans la diffusion d’information.&lt;/p&gt;
+        <title>An ambitious experiment in Data Science takes off</title>
+        <description>&lt;h4 id=&quot;reference&quot;&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/h4&gt;
 
-&lt;p&gt;Pour un journaliste, par exemple, devoir se baser uniquement sur des chiffres fournis par un Etat ou une organisation officielle et qui n’ont pas été interprétés est souvent compliqué. En Suisse et en Europe de manière générale, nous avons de la chance de disposer d’Offices de statistiques qui diffusent des chiffres. En revanche, au Moyen-Orient, en Asie ou encore en Afrique, il est plus compliqué d’obtenir des chiffres relativement précis, notamment en cas d’épidémie comme l’article met en avant.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.fperez.org/2013/11/an-ambitious-experiment-in-data-science.html&quot;&gt;Fernando Perez,An ambitious experiment in Data Science takes off: a biased, Open Source view from Berkeley&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Avoir réussi à créer une plate-forme que les gens peuvent exploiter de manière relativement libre et pouvoir utiliser la version que l’on souhaite est un vecteur important de la diffusion des bonnes informations.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Le nombre d’utilisateurs de Github qui croît de manière exponentielle est le parfait exemple que, lorsqu’un outil ergonomique, utile et bien pensé, l’internet mondial s’en empart et essaye d’en tirer le meilleur. Plus même que l’internet mondial, car selon l’article, on trouve également des bases de données sur les exo-planètes des données sur la recherche spatiale. Quelque chose d’inimaginable en 1969 lors des premiers pas sur la lune.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;team-berkeley-institute-for-data-science&quot;&gt;&lt;strong&gt;Team Berkeley Institute for Data Science&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.github.com/fperez/blog/master/fig/bids-team.jpg&quot; alt=&quot;teamBIDS&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(left to right: Josh Bloom, Cathryn Carson, Jas Sekhon, Saul Perlmutter, Erik Mitchell, Kimmen Sjölander, Jim Sethian, Mike Franklin, Fernando Perez)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;stakeholders&quot;&gt;&lt;strong&gt;Stakeholders&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bids.berkeley.edu&quot;&gt;University of California, Berkeley&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nyu.edu&quot;&gt;New York University&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://washington.edu&quot;&gt;University of Washington&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;donating-institutions&quot;&gt;&lt;strong&gt;Donating Institutions&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moore.org/&quot;&gt;Gordon &amp;amp; Betty Moore Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sloan.org/&quot;&gt;Alfred P. Sloan Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;key-statements&quot;&gt;&lt;strong&gt;Key Statements&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;We’ve been given nearly $38M of VC funding and a 5 year runway, now it’s our job to make it beyond this.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;The probability of failure is non-negligible, but these are the kinds of problems worth failing on.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;the incentive mechanisms of academic research are at sharp odds with the rising need for highly collaborative interdisciplinary research, where computation and data are first-class citizens.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;The creation of usable, robust computational tools, and the work of data acquisition and analysis must be treated as equal partners to methodological advances or domain-specific results.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;9 Problems of the Current Academic System:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;hyper-specialization&lt;/li&gt;
+      &lt;li&gt;collaboration across fields is punished&lt;/li&gt;
+      &lt;li&gt;sharing is discouraged&lt;/li&gt;
+      &lt;li&gt;interdisciplinarity  = &lt;em&gt;career suicide&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;computation is not important&lt;/li&gt;
+      &lt;li&gt;no rigor in coding / algorithmic usage&lt;/li&gt;
+      &lt;li&gt;far from reality&lt;/li&gt;
+      &lt;li&gt;no comprehensive strategy to teach computation &amp;amp; data skills&lt;/li&gt;
+      &lt;li&gt;brain drain in favor of the industry (at the expense of academia)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;overarching-questions&quot;&gt;&lt;strong&gt;&lt;em&gt;Overarching&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;Questions&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Is the nature of science itself really changing?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://static.squarespace.com/static/5150aec6e4b0e340ec52710a/t/51525c33e4b0b3e0d10f77ab/1364352052403/Data_Science_VD.png&quot; alt=&quot;conway_diagram&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;How do the institutions of science need to change in this context?&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;resistance to change : only churches and armies are worse than academic institutions&lt;/li&gt;
+      &lt;li&gt;hope to push for disruptive changes, locally &amp;amp; nationwide&lt;/li&gt;
+      &lt;li&gt;make education, hiring, tenure and promotion a fair game&lt;/li&gt;
+      &lt;li&gt;make lasting changes&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;open-source--a-key-ingredient&quot;&gt;&lt;strong&gt;&lt;em&gt;Open Source&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;: A Key Ingredient&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Open Source vs. Commercial:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Technically superior, built upon a better language.&lt;/li&gt;
+      &lt;li&gt;Openly developed from the start: no more black boxes in science.&lt;/li&gt;
+      &lt;li&gt;Based on validated, tested, documented, reusable code whose problems are publicly discussed and tracked.&lt;/li&gt;
+      &lt;li&gt;Built collaboratively, with everyone participating as equal partners and worrying first about solving the problems.&lt;/li&gt;
+      &lt;li&gt;Licensed as open source but in a way that would encourage industry participation and collaboration.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fernando’s take away from Open Source:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;learned a lot&lt;/li&gt;
+      &lt;li&gt;built some hopefully interesting tools&lt;/li&gt;
+      &lt;li&gt;made incredible friends&lt;/li&gt;
+      &lt;li&gt;realized that &lt;em&gt;open source community practiced many of the ideals of science better than academia&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;enjoyment of community events&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;combining-open-source-with-the-strengths-of-academia&quot;&gt;&lt;strong&gt;Combining Open Source with the Strengths of Academia&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Open Source:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;distributed&lt;/li&gt;
+      &lt;li&gt;collaborative&lt;/li&gt;
+      &lt;li&gt;mostly online&lt;/li&gt;
+      &lt;li&gt;often volunteer&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Academia:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;lasting presence&lt;/li&gt;
+      &lt;li&gt;physical space where intense human, face-to-face collaboration can take place&lt;/li&gt;
+      &lt;li&gt;deep expertise in many domains&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;outcome&quot;&gt;&lt;strong&gt;Outcome?&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Ask [Fernando] in five years [2018] how it went :)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;let’s have a look together at the latest newsletter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;the-berkeley-spirit&quot;&gt;&lt;strong&gt;The Berkeley Spirit&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Free Speech Movement&lt;/li&gt;
+  &lt;li&gt;Anti-War Protests&lt;/li&gt;
+  &lt;li&gt;Afro-American Civic Rights&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/ba/MarioSavio.JPG&quot; alt=&quot;fsm&quot; /&gt;
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Berkeley,_California._University_of_California_Student_Peace_Strike._About_half_of_the_students_assembled_at_the..._-_NARA_-_532103.tif/lossy-page1-231px-Berkeley,_California._University_of_California_Student_Peace_Strike._About_half_of_the_students_assembled_at_the..._-_NARA_-_532103.tif.jpg&quot; alt=&quot;antiwar&quot; /&gt;&lt;/p&gt;
+
 </description>
-        <pubDate>Wed, 26 Oct 2016 11:46:00 +0200</pubDate>
-        <link>http://localhost:4000/opinions/2016/10/26/open-science-information.html</link>
-        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/open-science-information.html</guid>
+        <pubDate>Tue, 25 Oct 2016 22:02:00 +0200</pubDate>
+        <link>http://localhost:4000/slides/2016/10/25/comments-fperez.html</link>
+        <guid isPermaLink="true">http://localhost:4000/slides/2016/10/25/comments-fperez.html</guid>
         
         
-        <category>Opinions</category>
+        <category>Slides</category>
         
       </item>
     
       <item>
-        <title>Lorem ipsum</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel luctus mauris. Vivamus suscipit tellus tortor, at mattis purus varius interdum. Quisque ut arcu sit amet massa varius pretium malesuada tempus est. Donec pretium lacinia dolor, at dictum nibh euismod nec. Etiam viverra nibh in sem dapibus fermentum. Nulla cursus bibendum efficitur. Nulla lacinia facilisis sem, at pretium nulla convallis et. Fusce nec pellentesque lacus. Maecenas pretium aliquet dui, ac lobortis ante dapibus eu. Morbi consequat egestas ipsum, a tincidunt nisi auctor a. Maecenas placerat porttitor elit, eu varius tellus lacinia sit amet.&lt;/p&gt;
+        <title>GitHub Basics</title>
+        <description>&lt;hr /&gt;
 
-&lt;p&gt;Donec a dui non risus porta pretium vel id enim. Curabitur ex enim, luctus id justo id, dictum hendrerit quam. Nulla facilisi. Morbi posuere tincidunt massa ac iaculis. Proin mi sem, commodo quis ornare a, ultricies nec orci. Aenean cursus est vitae lacus sagittis commodo. Nulla vulputate tortor quis laoreet accumsan.&lt;/p&gt;
+&lt;h4 id=&quot;machinery--git&quot;&gt;&lt;strong&gt;Machinery : Git&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Edit documents directly online on GitHub (limited)&lt;/li&gt;
+  &lt;li&gt;Get a local copy of your data / source code
+    &lt;ul&gt;
+      &lt;li&gt;command line : &lt;a href=&quot;https://try.github.io&quot;&gt;https://try.github.io&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;GUI software : &lt;a href=&quot;https://desktop.github.com/&quot;&gt;GitHub Desktop&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Duis a nulla dignissim, commodo arcu sit amet, ullamcorper ex. Aenean orci nisl, volutpat in urna vitae, mattis luctus lorem. Aenean bibendum pulvinar ligula sagittis porttitor. Vivamus vestibulum nisi ut scelerisque hendrerit. Nulla blandit mattis sollicitudin. Sed tellus dolor, luctus ut lacinia sit amet, porttitor ac purus. Vestibulum tincidunt sapien sit amet risus fermentum faucibus. Morbi massa mauris, interdum quis enim quis, suscipit facilisis enim. Fusce ut ultrices ipsum, in placerat augue. Maecenas eget risus et felis condimentum molestie id non metus.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;workflow&quot;&gt;&lt;strong&gt;Workflow&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Newbie:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://guides.github.com/activities/forking/&quot;&gt;Fork Repo&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://guides.github.com/activities/forking/#clone&quot;&gt;Clone (make a local copy)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://guides.github.com/activities/forking/#making-changes&quot;&gt;Make &amp;amp; Push Changes&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://guides.github.com/activities/forking/#making-a-pull-request&quot;&gt;Open Pull Request&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://guides.github.com/features/issues/&quot;&gt;Post Issues&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Expert (on a given repo):&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Become a Core Contributor&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/merging-a-pull-request/&quot;&gt;Merge Pull Request&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;More Operational Details:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668&quot;&gt;How To&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.solidonline.com/EN/images/solid-footer-logo/Logo-Github-Social-Coding.png&quot; alt=&quot;octocat&quot; /&gt;&lt;/p&gt;
+
 </description>
-        <pubDate>Wed, 26 Oct 2016 11:31:00 +0200</pubDate>
-        <link>http://localhost:4000/opinions/2016/10/26/silentmind.html</link>
-        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/silentmind.html</guid>
+        <pubDate>Tue, 25 Oct 2016 22:01:20 +0200</pubDate>
+        <link>http://localhost:4000/slides/2016/10/25/github-basics.html</link>
+        <guid isPermaLink="true">http://localhost:4000/slides/2016/10/25/github-basics.html</guid>
         
         
-        <category>Opinions</category>
+        <category>Slides</category>
         
       </item>
     
       <item>
-        <title>Opinion on Democratic Databases</title>
-        <description>
-&lt;p&gt;&lt;img src=&quot;https://assets-cdn.github.com/images/modules/logos_page/Octocat.png&quot; alt=&quot;github_pic&quot; /&gt;&lt;/p&gt;
+        <title>Democratic Databases : science on GitHub</title>
+        <description>&lt;hr /&gt;
 
-&lt;p&gt;L’article met en avant les services de « data sharing » et en particulier GitHub et son parent Git, bien que d’autres soient énoncés comme &lt;a href=&quot;http://dat-data.com/&quot;&gt;Dat&lt;/a&gt;. Il énumère différents exemples concrets, non reliés à la programmation, pour appuyer son point de vue, comme le listage des patients atteints d’Ebola ou encore « Open Exoplanet Catalogue » qui sont dans le domaine de la recherche. Il énonce aussi certains défauts que peuvent avoir ce système, comme la difficulté de rédaction de langage « non compréhensible/lisible par l’homme » ou la possibilité du créateur d’un projet de faire disparaître son œuvre (Bien que la copie soit possible par d’autres membres). L’article montre, selon moi, les aspects généraux des services, qui peut convaincre pas mal de monde a commencé à l’utiliser ou, du moins, à s’y intéresser (Bien que, comme dit, le nombre d’utilisateurs sur la plateforme est élevé).&lt;/p&gt;
+&lt;h4 id=&quot;reference&quot;&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/h4&gt;
 
-&lt;p&gt;Étant moi-même un utilisateur de GitHub, je peux compléter par un point, l’article se termine en expliquant que Git/GitHub a une fan base assez loyal auprès des scientifiques, mais elle en a aussi auprès d’informaticien en herbe ou de personnes souhaitant créer de gros projets qui ne sont pas liés à la science, elle-même. J’ai pu participer à plusieurs projets de création de jeu vidéo ou de templates/squelettes pour site web/forum qui m’ont permis à la fois de m’améliorer auprès de personne plus expérimentés, mais aussi, de communiquer avec des gens passionnés par la même chose que moi. Il s’agit d’une expérience similaire à celle que l’auteur du livre « Reinventing Discovery » explique dans ces chapitres avec Zooniverse et ses divers projets.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nature.com/news/democratic-databases-science-on-github-1.20719&quot;&gt;Jeffrey Perkel, Democratic databases: science on GitHub, Nature (2016)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;stakeholders&quot;&gt;&lt;strong&gt;Stakeholders&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cmrivers&quot;&gt;Caitlin River&lt;/a&gt;
+&lt;!-- ![Caitlin River][Caitlin River]--&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dfalster/&quot;&gt;Daniel Falster&lt;/a&gt;
+&lt;!-- ![dfalster][dfalster]--&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/arfon/&quot;&gt;Arfon Smith&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jperkel&quot;&gt;Jeffrey Perkel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gvwilson&quot;&gt;Greg Wilson&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;data-resources-in-constant-evolution&quot;&gt;&lt;strong&gt;Data Resources (in constant evolution)&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dfalster/baad&quot;&gt;Biomass And Allometry Database for woody plants&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/OpenTreeOfLife&quot;&gt;Tree of Life&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.openexoplanetcatalogue.com/&quot;&gt;Open Exoplanet Catalogue&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;freezed-data&quot;&gt;&lt;strong&gt;Freezed Data&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zenodo.org/&quot;&gt;Zenodo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://figshare.com/&quot;&gt;Figshare&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;other-resources&quot;&gt;&lt;strong&gt;Other Resources&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.datacarpentry.org/&quot;&gt;Data Carpentry&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;software-carpentry.org&quot;&gt;Software Carpentry&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitbucket.org/&quot;&gt;bitbucket&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
-        <pubDate>Wed, 26 Oct 2016 11:30:00 +0200</pubDate>
-        <link>http://localhost:4000/opinions/2016/10/26/Esprit-Orgue-Opinion.html</link>
-        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/Esprit-Orgue-Opinion.html</guid>
+        <pubDate>Tue, 25 Oct 2016 22:01:00 +0200</pubDate>
+        <link>http://localhost:4000/slides/2016/10/25/comments-on-text-democratic-databases.html</link>
+        <guid isPermaLink="true">http://localhost:4000/slides/2016/10/25/comments-on-text-democratic-databases.html</guid>
         
         
-        <category>Opinions</category>
-        
-      </item>
-    
-      <item>
-        <title>GitHub Review</title>
-        <description>&lt;p&gt;Open Science: GitHub&lt;/p&gt;
-
-&lt;p&gt;Jeffrey Perkel,Democratic databases: science on GitHub&lt;/p&gt;
-
-&lt;p&gt;Je trouves que cet article confirme l’importance de l’Open science et souligne la croissance de ce mouvement. Dans les années à venir l’Open science se sera développée et il sera plus facile de faire des découvertes mais aussi de fournir un travail plus vigoureux grâce à la collaborations et le suivit de plusieurs personnes. GitHub nous prouve pourquoi le partage de données est l’une des clés les plus importantes pour l’Open science (les chercheurs peuvent partager des données n’importe où ils veulent).
-Par exemple: Tous le monde peut visiter le catalogue Ouvert d’Exoplanètes dans GitHub (une base de données croissante sur les planètes connues en dehors du système solaire) et publier de nouvelles informations à travers leurs browsers.On va de plus en plus vers un système plus démocratique car n’importe quel utilisateur peu suggérer des changements et modifier sa propre version par rapport à ses exigences.
-On peu espérer qu’au fil des années avec les nouvelles technologies on pourra améliorer ces logiciels et les rendre en quelque sorte parfaits. En prenant l’exemple de GitHub, pas touts les types de données marchent bien avec le software Git. Certaines personnes pourraient donc être retissantes à ces changements (de partage de données en ligne) donc si on améliore ces logiciels on pourra pousser plus de gens et surtout les scientifiques à les utiliser et partager leurs données et contribuer donc à ce mouvement qu’est l’Open science.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 26 Oct 2016 11:27:45 +0200</pubDate>
-        <link>http://localhost:4000/opinions/2016/10/26/GitHub-Review.html</link>
-        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/GitHub-Review.html</guid>
-        
-        
-        <category>Opinions</category>
-        
-      </item>
-    
-      <item>
-        <title>Paulo - Review</title>
-        <description>&lt;p&gt;I’ve known Github for a few years, because I’m an adept of open source development, and I’ve followed a couple small projects, but I was still surprised learning it was used for more than software development, and that it played such a big role in science.
-However, my opinion, is that this transparency of information can only be good for everyone.&lt;/p&gt;
-
-&lt;p&gt;Times are changing and the way information flows as well, and science can definitely take advantage of that. By allowing multiple users access to a project, it motivates progress. This has been shown to work with multiple projects, such as Galaxy Zoo or Fold-it.&lt;/p&gt;
-
-&lt;p&gt;However, this point of view is still not accepted by many, mainly because scientists are rewarded by the number of papers they write. Nonetheless, scientific data nowadays has such a volume that a small team of scientist cannot hope to analyse everything. By embracing the open source development, things can change.
-By changing how science should be viewed and how it should be treated, our knowledge as a whole can move forward, which is why I agree with the partnership between Berkeley, University of Washington and NYU.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 26 Oct 2016 11:27:10 +0200</pubDate>
-        <link>http://localhost:4000/opinions/2016/10/26/btuger.html</link>
-        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/btuger.html</guid>
-        
-        
-        <category>Opinions</category>
-        
-      </item>
-    
-      <item>
-        <title>La magie de github</title>
-        <description>&lt;p&gt;Ayant déjà eu l’occasion de travailler avec github lors de différents
-projets de programmation et autre, j’étais déjà relativement familier avec les
-concepts de bases et leur fonctionnement. J’ai cependant été surpris de
-découvrir les utilisations que les gens en faisaient dans des domaines
-hors du champ purement informatique. En effet je ne savais absolument pas
-que des scientifiques l’utilisaient comme un &lt;em&gt;journal de bord&lt;/em&gt; ou dans certains
-cas comme moyen de partager des informations et des résultats de recherche.
-J’ai également pris connaisance d’autres outils tels que Zenodo et Figshare
-qui eux servent à garder un “arrêt sur images” de données scientifiques dans le but
-de servire de références fixes pour des publications etc…&lt;/p&gt;
-</description>
-        <pubDate>Wed, 26 Oct 2016 11:26:34 +0200</pubDate>
-        <link>http://localhost:4000/opinions/2016/10/26/la-magie-de-github.html</link>
-        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/la-magie-de-github.html</guid>
-        
-        
-        <category>Opinions</category>
+        <category>Slides</category>
         
       </item>
     
