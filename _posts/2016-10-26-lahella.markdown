@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Une opinion"
+date:   2016-10-26 11:24:10 +0200
+categories: Opinions
+author : lahella
+---
+
+Avant la lecture de l’article « Democratic database : science on GitHub » de Jeffrey Perkel, Github était pour moi
+une plateforme à but non-professionnelle dont le but était de partager des codes pour le plaisir. En lisant
+l’article, je me suis rapidement rendue compte que selon l’utilisation qu’un utilisateur faisait de GitHub,
+cette plateforme pouvait être bien plus qu’une simple base de données collective pour codeur. Il s’agit là d’un outil de
+travail devenu nécéssaire pour certain scientifiques. Cependant, il est regrettable de constater que pas toute la communauté
+scientifique utilise GitHub autant que le domaine de l’informatique. Peut-être cela est également dû au fait qu’il existe des
+plateformes similaires à GitHub, plateformes qu’une grande majorité des scientifiques ont déjà adoptées comme outil de travail.
+A la suite de ma lecture de cette article une seule question m’est venue à l’esprit ; pouvons-nous donc envisager de voir un
+jour toutes ces plateformes de partage de données fusionner en faveur d’une seule plateforme et est-ce qu’une telle plateforme
+permettrait de faire avancer le progrès scientifique à une cadence accélérée ? Un jour peut-être nous aurons une réponse…

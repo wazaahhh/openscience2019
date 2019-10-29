@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Paulo - Review"
+date:   2016-10-26 11:27:10 +0200
+categories: Opinions
+author : btuger
+---
+
+I’ve known Github for a few years, because I’m an adept of open source development, and I’ve followed a couple small projects, but I was still surprised learning it was used for more than software development, and that it played such a big role in science.
+However, my opinion, is that this transparency of information can only be good for everyone.
+
+Times are changing and the way information flows as well, and science can definitely take advantage of that. By allowing multiple users access to a project, it motivates progress. This has been shown to work with multiple projects, such as Galaxy Zoo or Fold-it.
+
+However, this point of view is still not accepted by many, mainly because scientists are rewarded by the number of papers they write. Nonetheless, scientific data nowadays has such a volume that a small team of scientist cannot hope to analyse everything. By embracing the open source development, things can change.
+By changing how science should be viewed and how it should be treated, our knowledge as a whole can move forward, which is why I agree with the partnership between Berkeley, University of Washington and NYU.

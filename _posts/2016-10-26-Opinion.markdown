@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Opinion Open Science"
+date:   2016-11-02 12:00:00 +0200
+categories: Opinions
+author : FRibon
+---
+
+L’open science est une pratique intéressante à utiliser. L’idée de partager des données, afin de permettre à d’autres intéressés de s’investir dans un projet, alors qu’il n’aurait pas pu, sans le partage, de s’y investir, ou encore, le partage de projet permet de tenir au courant les personnes voulant avoir un aperçu des projets en cours.
+De plus, les personnes indépendantes, se lançant dans un grand projet, auront éventuellement besoin d’aide et transmette leurs idées, afin d’attirer les plus intéressés et permettant de sans lancer dans « une dynamique de groupe ».
+Le blog « Democratic databases : science on GitHub » illustre bien avec l’exemple de projet sur l’Ebola de Caitlin Rivers.
+Elle a décidé de collecter des informations sur les gens affectés par l’Ebola à l’ouest de l’Afrique. Elle stocke les données dans un PDF et fini par publier sur GitHub. Les gens les plus intéressés ont suivi et contribué au projet et aidaient à maintenir les données à jour.
+Nous pouvons donc voir, que grâce à GitHub ce n’était plus des données stocker sur un pdf mais une base de données mise à jour constamment.
+Cet exemple nous permet aussi de voir, que l’open science peut aider également à l’organisation du projet et le rendre plus accessible, comme le passage d’un PDF difficile à modifier ou mettre à jour à une grande base de données. Le projet a évolué sur une base de volontariat.
+L’Open Science est donc une sorte d’évolution de la science où une adaptation de la science pour les gens intéressés et possédant des savoirs exploitables pour certains projets mais qui ne pourraient pas participer si une association ou entreprise privée s’occupait de ces projets sans les partager.
+GitHub est un des plus grands sites permettant l’Open Science, aujourd’hui le site compte plus de 15 million d’utilisateurs et le site a commencé en 2008.

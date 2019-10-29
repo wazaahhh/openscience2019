@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <!--<h1 class="page-heading">Posts</h1>-->
+
+  <ul class="post-list">
+
+  <h1>Opinions</h1>
+
+  {% for post in site.posts %}
+  {% for category in post.categories %}
+    {% if category == "Opinions" %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> | <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="https://github.com/{{ post.author }}">{{ post.author }}</a></span></span>
+
+      <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+  {% endfor %}
+
+  <h1>Slides</h1>
+
+  {% for post in site.posts %}
+  {% for category in post.categories %}
+    {% if category == "Slides" %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="https://github.com/{{ post.author }}">{{ post.author }}</a></span></span>
+
+      <h3>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+  {% endfor %}
+  </ul>
+
+
+  <h1>Assignments</h1>
+
+  {% for post in site.posts %}
+  {% for category in post.categories %}
+    {% if category == "Assignments" %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="https://github.com/{{ post.author }}">{{ post.author }}</a></span></span>
+
+      <h3>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+  {% endfor %}
+  </ul>
+
+
+
+
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

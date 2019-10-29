@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Science @ University of Geneva</title>
+    <description>Blog posts for the class on open science at the University of Geneva
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 29 Oct 2019 23:53:42 +0100</pubDate>
+    <lastBuildDate>Tue, 29 Oct 2019 23:53:42 +0100</lastBuildDate>
+    <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>Opinion Open Science</title>
+        <description>&lt;p&gt;L’open science est une pratique intéressante à utiliser. L’idée de partager des données, afin de permettre à d’autres intéressés de s’investir dans un projet, alors qu’il n’aurait pas pu, sans le partage, de s’y investir, ou encore, le partage de projet permet de tenir au courant les personnes voulant avoir un aperçu des projets en cours.
+De plus, les personnes indépendantes, se lançant dans un grand projet, auront éventuellement besoin d’aide et transmette leurs idées, afin d’attirer les plus intéressés et permettant de sans lancer dans « une dynamique de groupe ».
+Le blog « Democratic databases : science on GitHub » illustre bien avec l’exemple de projet sur l’Ebola de Caitlin Rivers.
+Elle a décidé de collecter des informations sur les gens affectés par l’Ebola à l’ouest de l’Afrique. Elle stocke les données dans un PDF et fini par publier sur GitHub. Les gens les plus intéressés ont suivi et contribué au projet et aidaient à maintenir les données à jour.
+Nous pouvons donc voir, que grâce à GitHub ce n’était plus des données stocker sur un pdf mais une base de données mise à jour constamment.
+Cet exemple nous permet aussi de voir, que l’open science peut aider également à l’organisation du projet et le rendre plus accessible, comme le passage d’un PDF difficile à modifier ou mettre à jour à une grande base de données. Le projet a évolué sur une base de volontariat.
+L’Open Science est donc une sorte d’évolution de la science où une adaptation de la science pour les gens intéressés et possédant des savoirs exploitables pour certains projets mais qui ne pourraient pas participer si une association ou entreprise privée s’occupait de ces projets sans les partager.
+GitHub est un des plus grands sites permettant l’Open Science, aujourd’hui le site compte plus de 15 million d’utilisateurs et le site a commencé en 2008.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Nov 2016 11:00:00 +0100</pubDate>
+        <link>http://localhost:4000/opinions/2016/11/02/Opinion.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinions/2016/11/02/Opinion.html</guid>
+        
+        
+        <category>Opinions</category>
+        
+      </item>
+    
+      <item>
+        <title>Homework Next Week</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Make a contribution on Open Street Map.
+    &lt;ul&gt;
+      &lt;li&gt;http://learnosm.org&lt;/li&gt;
+      &lt;li&gt;https://www.openstreetmap.org&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Read about WAZE app.
+    &lt;ul&gt;
+      &lt;li&gt;https://en.wikipedia.org/wiki/Waze&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Read the Terms of Use, including Privacy Policy and Copyright Policy
+    &lt;ul&gt;
+      &lt;li&gt;https://www.waze.com/fr/legal/tos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Optional: Install and have a look at WAZE app.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 30 Oct 2016 14:35:27 +0100</pubDate>
+        <link>http://localhost:4000/assignments/2016/10/30/homework.html</link>
+        <guid isPermaLink="true">http://localhost:4000/assignments/2016/10/30/homework.html</guid>
+        
+        
+        <category>Assignments</category>
+        
+      </item>
+    
+      <item>
+        <title>Une pensée</title>
+        <description>&lt;p&gt;Je pense que GitHub est un grand progrès dans tous les domaines, bien que certain domaines restent encore hermétiques au site comme GitHub,
+au site open access.
+C’est grâce à des sites comme GitHub ou Zooniverse que certaines avancées scientifiques ont été faites, par exemple certains projets
+comme celui de des galaxies sur Zooniverse a permis de classifier leur données beaucoup plus rapidement qui si cela avait été fait tous seul.
+Je pense que dans un futur proche toutes les sciences devraient être en open access.
+L’interface de GitHub n’est pas très optimisé. Je pense qu’ils pourraient optimiser la barre de navigaton.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Oct 2016 15:35:27 +0200</pubDate>
+        <link>http://localhost:4000/opinions/2016/10/26/Une-pens%C3%A9e.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/Une-pens%C3%A9e.html</guid>
+        
+        
+        <category>Opinions</category>
+        
+      </item>
+    
+      <item>
+        <title>Homework à faire</title>
+        <description>&lt;p&gt;Democratic databases: science on GitHub - Review&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://blogs.nature.com/naturejobs/files/2016/10/To_deposit_or_not_to_deposit_that_is_the_question_-_journal.pbio_.1001779.g001.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;L’article en question parle de « data-sharing » et en quoi cela est bénéfique non seulement pour les chercheurs, mais aussi pour l’humanité. En partageant ses données sur le virus Ebola sur Github, Rivers n’a pas seulement mis ses données en ligne, à disposition de quiconque, mais s’est aussi faite aider par d’autres chercheurs ayant aussi partagé leurs données sur Ebola.&lt;/p&gt;
+
+&lt;p&gt;L’expérience vécue sur Github ressemble à celle que l’on peut vivre avec Zooniverse mais avec un taux de participation plus élevée où on peut faire avancer le projet visé avec nos propres données, apprendre des avancements faits par d’autres membres du site, ou encore communiquer avec d’autres personnes passionnées par le même projet que nous.
+De plus, avec Github on peut voir exactement les contributions faites et où elles sont faites avec une sorte d’historique des interventions faite par les utilisateurs du site.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Oct 2016 12:02:00 +0200</pubDate>
+        <link>http://localhost:4000/opinions/2016/10/26/Science-on-GitHub-Review.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/Science-on-GitHub-Review.html</guid>
+        
+        
+        <category>Opinions</category>
+        
+      </item>
+    
+      <item>
+        <title>L'open science pour l'information</title>
+        <description>&lt;p&gt;Le titre de cet article relève pour moi ce qui m’a le plus surpris dans le texte. Il y a encore une quinzaine d’années, savoir créer, utiliser, optimiser et diffuser une base de données informatique était quelque chose de peu courant. La démocratisation que met en avant l’article montre que, bien utilisées, les bases de données open-source, mises à disposition de chacun de manière simple, peuvent considérablement amener un renouveau dans la recherche mais également dans la diffusion d’information.&lt;/p&gt;
+
+&lt;p&gt;Pour un journaliste, par exemple, devoir se baser uniquement sur des chiffres fournis par un Etat ou une organisation officielle et qui n’ont pas été interprétés est souvent compliqué. En Suisse et en Europe de manière générale, nous avons de la chance de disposer d’Offices de statistiques qui diffusent des chiffres. En revanche, au Moyen-Orient, en Asie ou encore en Afrique, il est plus compliqué d’obtenir des chiffres relativement précis, notamment en cas d’épidémie comme l’article met en avant.&lt;/p&gt;
+
+&lt;p&gt;Avoir réussi à créer une plate-forme que les gens peuvent exploiter de manière relativement libre et pouvoir utiliser la version que l’on souhaite est un vecteur important de la diffusion des bonnes informations.&lt;/p&gt;
+
+&lt;p&gt;Le nombre d’utilisateurs de Github qui croît de manière exponentielle est le parfait exemple que, lorsqu’un outil ergonomique, utile et bien pensé, l’internet mondial s’en empart et essaye d’en tirer le meilleur. Plus même que l’internet mondial, car selon l’article, on trouve également des bases de données sur les exo-planètes des données sur la recherche spatiale. Quelque chose d’inimaginable en 1969 lors des premiers pas sur la lune.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Oct 2016 11:46:00 +0200</pubDate>
+        <link>http://localhost:4000/opinions/2016/10/26/open-science-information.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/open-science-information.html</guid>
+        
+        
+        <category>Opinions</category>
+        
+      </item>
+    
+      <item>
+        <title>Lorem ipsum</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel luctus mauris. Vivamus suscipit tellus tortor, at mattis purus varius interdum. Quisque ut arcu sit amet massa varius pretium malesuada tempus est. Donec pretium lacinia dolor, at dictum nibh euismod nec. Etiam viverra nibh in sem dapibus fermentum. Nulla cursus bibendum efficitur. Nulla lacinia facilisis sem, at pretium nulla convallis et. Fusce nec pellentesque lacus. Maecenas pretium aliquet dui, ac lobortis ante dapibus eu. Morbi consequat egestas ipsum, a tincidunt nisi auctor a. Maecenas placerat porttitor elit, eu varius tellus lacinia sit amet.&lt;/p&gt;
+
+&lt;p&gt;Donec a dui non risus porta pretium vel id enim. Curabitur ex enim, luctus id justo id, dictum hendrerit quam. Nulla facilisi. Morbi posuere tincidunt massa ac iaculis. Proin mi sem, commodo quis ornare a, ultricies nec orci. Aenean cursus est vitae lacus sagittis commodo. Nulla vulputate tortor quis laoreet accumsan.&lt;/p&gt;
+
+&lt;p&gt;Duis a nulla dignissim, commodo arcu sit amet, ullamcorper ex. Aenean orci nisl, volutpat in urna vitae, mattis luctus lorem. Aenean bibendum pulvinar ligula sagittis porttitor. Vivamus vestibulum nisi ut scelerisque hendrerit. Nulla blandit mattis sollicitudin. Sed tellus dolor, luctus ut lacinia sit amet, porttitor ac purus. Vestibulum tincidunt sapien sit amet risus fermentum faucibus. Morbi massa mauris, interdum quis enim quis, suscipit facilisis enim. Fusce ut ultrices ipsum, in placerat augue. Maecenas eget risus et felis condimentum molestie id non metus.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Oct 2016 11:31:00 +0200</pubDate>
+        <link>http://localhost:4000/opinions/2016/10/26/silentmind.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/silentmind.html</guid>
+        
+        
+        <category>Opinions</category>
+        
+      </item>
+    
+      <item>
+        <title>Opinion on Democratic Databases</title>
+        <description>
+&lt;p&gt;&lt;img src=&quot;https://assets-cdn.github.com/images/modules/logos_page/Octocat.png&quot; alt=&quot;github_pic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;L’article met en avant les services de « data sharing » et en particulier GitHub et son parent Git, bien que d’autres soient énoncés comme &lt;a href=&quot;http://dat-data.com/&quot;&gt;Dat&lt;/a&gt;. Il énumère différents exemples concrets, non reliés à la programmation, pour appuyer son point de vue, comme le listage des patients atteints d’Ebola ou encore « Open Exoplanet Catalogue » qui sont dans le domaine de la recherche. Il énonce aussi certains défauts que peuvent avoir ce système, comme la difficulté de rédaction de langage « non compréhensible/lisible par l’homme » ou la possibilité du créateur d’un projet de faire disparaître son œuvre (Bien que la copie soit possible par d’autres membres). L’article montre, selon moi, les aspects généraux des services, qui peut convaincre pas mal de monde a commencé à l’utiliser ou, du moins, à s’y intéresser (Bien que, comme dit, le nombre d’utilisateurs sur la plateforme est élevé).&lt;/p&gt;
+
+&lt;p&gt;Étant moi-même un utilisateur de GitHub, je peux compléter par un point, l’article se termine en expliquant que Git/GitHub a une fan base assez loyal auprès des scientifiques, mais elle en a aussi auprès d’informaticien en herbe ou de personnes souhaitant créer de gros projets qui ne sont pas liés à la science, elle-même. J’ai pu participer à plusieurs projets de création de jeu vidéo ou de templates/squelettes pour site web/forum qui m’ont permis à la fois de m’améliorer auprès de personne plus expérimentés, mais aussi, de communiquer avec des gens passionnés par la même chose que moi. Il s’agit d’une expérience similaire à celle que l’auteur du livre « Reinventing Discovery » explique dans ces chapitres avec Zooniverse et ses divers projets.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Oct 2016 11:30:00 +0200</pubDate>
+        <link>http://localhost:4000/opinions/2016/10/26/Esprit-Orgue-Opinion.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/Esprit-Orgue-Opinion.html</guid>
+        
+        
+        <category>Opinions</category>
+        
+      </item>
+    
+      <item>
+        <title>GitHub Review</title>
+        <description>&lt;p&gt;Open Science: GitHub&lt;/p&gt;
+
+&lt;p&gt;Jeffrey Perkel,Democratic databases: science on GitHub&lt;/p&gt;
+
+&lt;p&gt;Je trouves que cet article confirme l’importance de l’Open science et souligne la croissance de ce mouvement. Dans les années à venir l’Open science se sera développée et il sera plus facile de faire des découvertes mais aussi de fournir un travail plus vigoureux grâce à la collaborations et le suivit de plusieurs personnes. GitHub nous prouve pourquoi le partage de données est l’une des clés les plus importantes pour l’Open science (les chercheurs peuvent partager des données n’importe où ils veulent).
+Par exemple: Tous le monde peut visiter le catalogue Ouvert d’Exoplanètes dans GitHub (une base de données croissante sur les planètes connues en dehors du système solaire) et publier de nouvelles informations à travers leurs browsers.On va de plus en plus vers un système plus démocratique car n’importe quel utilisateur peu suggérer des changements et modifier sa propre version par rapport à ses exigences.
+On peu espérer qu’au fil des années avec les nouvelles technologies on pourra améliorer ces logiciels et les rendre en quelque sorte parfaits. En prenant l’exemple de GitHub, pas touts les types de données marchent bien avec le software Git. Certaines personnes pourraient donc être retissantes à ces changements (de partage de données en ligne) donc si on améliore ces logiciels on pourra pousser plus de gens et surtout les scientifiques à les utiliser et partager leurs données et contribuer donc à ce mouvement qu’est l’Open science.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Oct 2016 11:27:45 +0200</pubDate>
+        <link>http://localhost:4000/opinions/2016/10/26/GitHub-Review.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/GitHub-Review.html</guid>
+        
+        
+        <category>Opinions</category>
+        
+      </item>
+    
+      <item>
+        <title>Paulo - Review</title>
+        <description>&lt;p&gt;I’ve known Github for a few years, because I’m an adept of open source development, and I’ve followed a couple small projects, but I was still surprised learning it was used for more than software development, and that it played such a big role in science.
+However, my opinion, is that this transparency of information can only be good for everyone.&lt;/p&gt;
+
+&lt;p&gt;Times are changing and the way information flows as well, and science can definitely take advantage of that. By allowing multiple users access to a project, it motivates progress. This has been shown to work with multiple projects, such as Galaxy Zoo or Fold-it.&lt;/p&gt;
+
+&lt;p&gt;However, this point of view is still not accepted by many, mainly because scientists are rewarded by the number of papers they write. Nonetheless, scientific data nowadays has such a volume that a small team of scientist cannot hope to analyse everything. By embracing the open source development, things can change.
+By changing how science should be viewed and how it should be treated, our knowledge as a whole can move forward, which is why I agree with the partnership between Berkeley, University of Washington and NYU.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Oct 2016 11:27:10 +0200</pubDate>
+        <link>http://localhost:4000/opinions/2016/10/26/btuger.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/btuger.html</guid>
+        
+        
+        <category>Opinions</category>
+        
+      </item>
+    
+      <item>
+        <title>La magie de github</title>
+        <description>&lt;p&gt;Ayant déjà eu l’occasion de travailler avec github lors de différents
+projets de programmation et autre, j’étais déjà relativement familier avec les
+concepts de bases et leur fonctionnement. J’ai cependant été surpris de
+découvrir les utilisations que les gens en faisaient dans des domaines
+hors du champ purement informatique. En effet je ne savais absolument pas
+que des scientifiques l’utilisaient comme un &lt;em&gt;journal de bord&lt;/em&gt; ou dans certains
+cas comme moyen de partager des informations et des résultats de recherche.
+J’ai également pris connaisance d’autres outils tels que Zenodo et Figshare
+qui eux servent à garder un “arrêt sur images” de données scientifiques dans le but
+de servire de références fixes pour des publications etc…&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Oct 2016 11:26:34 +0200</pubDate>
+        <link>http://localhost:4000/opinions/2016/10/26/la-magie-de-github.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinions/2016/10/26/la-magie-de-github.html</guid>
+        
+        
+        <category>Opinions</category>
+        
+      </item>
+    
+  </channel>
+</rss>

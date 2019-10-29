@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Une pensée"
+date:   2016-10-26 15:35:27 +0200
+categories: Opinions
+author: Baptiste
+---
+
+Je pense que GitHub est un grand progrès dans tous les domaines, bien que certain domaines restent encore hermétiques au site comme GitHub,
+au site open access.
+C'est grâce à des sites comme GitHub ou Zooniverse que certaines avancées scientifiques ont été faites, par exemple certains projets
+comme celui de des galaxies sur Zooniverse a permis de classifier leur données beaucoup plus rapidement qui si cela avait été fait tous seul.
+Je pense que dans un futur proche toutes les sciences devraient être en open access.
+L'interface de GitHub n'est pas très optimisé. Je pense qu'ils pourraient optimiser la barre de navigaton.
