@@ -186,5 +186,5 @@ display(img) # Notation is specific to databricks otherwise plt.show would outpu
 ```
 
 
-![png](output_4_0.png)
+![png](../images/output_4_0.png)
 
